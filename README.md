@@ -10,13 +10,13 @@
 
 - 🌱j'apprends actuellement **Angular, Spring-Boot**
 
-- 🤝Je cherche de l'aide pour [StarCode CSI3](https://github.com/nguetcheu/starCode-projetutore-CS3I-DLW)
+- 🤝Je cherche de l'aide pour [Spring Boot Blog API](https://github.com/nguetcheu/springboot-blog-rest-api)
 
 - 💬 Demande moi à propos de **Angular, Spring-Boot**
 
 - 📫 Comment me joindre **dnguetcheu@gmail.com**
 
-- 📄 Connaître mes expériences [IsdevExpert et Co founder de la Ephirteck](IsdevExpert et Co founder de la Ephirteck)
+- 📄 Connaître mes expériences [IsdevExpert? Interface Sa et Co founder de la Ephirteck](IsdevExpert et Co founder de la startup Ephirteck)
 
 - ⚡ Fun fact **Je suis un passionné de technologie et de programmation**
 

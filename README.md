@@ -8,7 +8,7 @@
 
 - 🔭 je travaille actuellement sur [ng-pokemon-app](https://github.com/nguetcheu/ng-pokemon-app)
 
-- 🌱j'apprends actuellement **Angular, Spring-Boot**
+- 🌱j'apprends actuellement **Angular, Spring-Boot, Java Android**
 
 - 🤝Je cherche de l'aide pour [Spring Boot Blog API](https://github.com/nguetcheu/springboot-blog-rest-api)
 

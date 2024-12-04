@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguetcheu Kuinsi Dominique</h1>
-<h3 align="center">Je suis un développeur passionné de Java, Spring Boot et Angular âgé de 21 ans. Depuis que j'ai commencé à apprendre à programmer, j'ai été fasciné par la capacité de la technologie à résoudre des problèmes réels et à créer des expériences utilisateur incroyables. Au fil des ans, j'ai travaillé sur de nombreux projets de développement de logiciels, mais mon intérêt pour Java, Spring Boot et Angular est resté constant.</h3>
+<h3 align="center">Je suis un développeur passionné de Java, Android, Spring Boot et Angular âgé de 22 ans. Depuis que j'ai commencé à apprendre à programmer, j'ai été fasciné par la capacité de la technologie à résoudre des problèmes réels et à créer des expériences utilisateur incroyables. Au fil des ans, j'ai travaillé sur de nombreux projets de développement de logiciels, mais mon intérêt pour Java, Spring Boot et Angular est resté constant.</h3>
 <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguetcheu&label=Profile%20views&color=0e75b6&style=flat" alt="nguetcheu" /> </p>

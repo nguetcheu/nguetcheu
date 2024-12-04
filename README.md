@@ -12,7 +12,7 @@
 
 - 🤝Je cherche de l'aide pour [Spring Boot Blog API](https://github.com/nguetcheu/springboot-blog-rest-api)
 
-- 💬 Demande moi à propos de **Angular, Spring-Boot**
+- 💬 Demande moi à propos de **Angular, Spring-Boot, Android**
 
 - 📫 Comment me joindre **dnguetcheu@gmail.com**
 

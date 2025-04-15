@@ -16,7 +16,7 @@
 
 - 📫 Comment me joindre **dnguetcheu@gmail.com**
 
-- 📄 Connaître mes expériences [IsdevExpert? Interface Sa et Co founder de la Ephirteck](IsdevExpert et Co founder de la startup Ephirteck)
+- 📄 Connaître mes expériences [IsdevExpert? Orange Innovation France, Interface Sa et Co founder de la Ephirteck](IsdevExpert et Co founder de la startup Ephirteck)
 
 - ⚡ Fun fact **Je suis un passionné de technologie et de programmation**
 
